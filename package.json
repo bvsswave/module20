@@ -1,8 +1,8 @@
 {
-  "homepage": "http://<bvsswave>.github.io/photo-port",
-  "name": "photo-port",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://bvsswave.github.io/module20/",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
@@ -16,8 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
-
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
