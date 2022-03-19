@@ -1,7 +1,8 @@
 # Portfolio
 
 ## Description
-
+DEPLOY: https://bvsswave.github.io/portfolio20/
+GITHUB: https://github.com/bvsswave/portfolio20.git
 ## User Story
 ```
 AS AN employer looking for candidates with experience building single-page applications
